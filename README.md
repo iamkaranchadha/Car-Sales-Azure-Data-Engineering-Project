@@ -1,41 +1,8 @@
-# Car-Sales-Azure-Data-Engineering-Project
+# 🚗 Car Sales Azure Data Engineering Project
 
 This project demonstrates a full-scale Azure Data Engineering solution to ingest, process, and model car sales data using a modern data architecture. It incorporates best practices like incremental loading, medallion architecture (Bronze, Silver, Gold), dimensional modeling, and pipeline orchestration.
 
 ![1_XKy6f8aj2Pb_nW1nRtxY1Q](https://github.com/user-attachments/assets/7a25733e-08b4-4acf-a33a-e2c7dc28ffe3)
-
-📌 Project Goals
-* Ingest car sales data from a public API
-
-* Enable incremental data loading using watermark strategy
-
-* Implement medallion architecture with optimized storage formats (Parquet, Delta)
-
-* Design star schema and dimensional models using PySpark
-
-* Establish Power BI connectivity for business reporting
-
-* Automate and schedule data pipelines for continuous operation
-
-| Layer         | Technology Used                             |
-| ------------- | ------------------------------------------- |
-| Ingestion     | Azure Data Factory, API, Azure SQL Database |
-| Storage       | Azure Data Lake Gen2 (Bronze/Silver/Gold)   |
-| Processing    | Azure Databricks (PySpark, Spark SQL)       |
-| Modeling      | Star Schema, SCD Type 1                     |
-| Metadata      | Unity Catalog, Unity Metastore              |
-| Reporting     | Power BI (Dataset connectivity only)        |
-| Orchestration | Azure Data Factory pipelines, Triggers      |
-
-Thanks for the clarification! Since you didn't create dashboards in Power BI but established the connection to enable reporting, we’ll revise that section accordingly. Here's the updated project write-up, refined for your GitHub:
-
----
-
-# 🚗 Azure Data Engineering Project – Car Sales Data Pipeline
-
-This project demonstrates a full-scale Azure Data Engineering solution to ingest, process, and model car sales data using a modern data architecture. It incorporates best practices like incremental loading, medallion architecture (Bronze, Silver, Gold), dimensional modeling, and pipeline orchestration.
-
-
 
 ---
 
