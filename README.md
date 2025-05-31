@@ -118,7 +118,13 @@ This project demonstrates a full-scale Azure Data Engineering solution to ingest
 * Configured scheduled triggers for daily automation
 
 
+
 ![Screenshot 2025-05-31 205141](https://github.com/user-attachments/assets/45ebe294-6f3d-4ef5-ba7c-9a8dfc9783a2)
+
+![image](https://github.com/user-attachments/assets/db24f769-26e4-44c3-bd11-50c7721d52b7)
+
+![image](https://github.com/user-attachments/assets/8b1efefa-fc90-40eb-8067-4acdd33c10d5)
+
 
 ---
 
