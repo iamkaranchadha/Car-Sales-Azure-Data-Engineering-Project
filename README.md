@@ -80,6 +80,7 @@ This project demonstrates a full-scale Azure Data Engineering solution to ingest
   * Initial load
   * Incremental load logic (idempotent)
 * Created SCD Type 1 dimensions and fact tables (star schema)
+![Screenshot 2025-05-31 202652](https://github.com/user-attachments/assets/c4d876b9-1762-4650-8766-38540b5b7afa)
 * Stored business-ready data in the Gold layer in Delta format
 * Created Delta tables registered with Unity Catalog and Unity Metastore
 
@@ -108,8 +109,6 @@ This project demonstrates a full-scale Azure Data Engineering solution to ingest
 ## ⚙️ Pipeline Orchestration
 
 * Created multiple Databricks notebooks for transformation logic
-![Screenshot 2025-05-31 202652](https://github.com/user-attachments/assets/c4d876b9-1762-4650-8766-38540b5b7afa)
-
 * Built modular ADF pipelines for:
 
   * API ingestion to Azure SQL
